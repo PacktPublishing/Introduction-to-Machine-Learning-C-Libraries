@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Introduction-to-Machine-Learning-C-Libraries
 Introduction to Machine Learning C++ Libraries, published by Packt
 # An Introduction into Machine Learning C++ Libraries [Video]
